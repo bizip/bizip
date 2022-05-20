@@ -39,7 +39,7 @@
 
 - 📫 How to reach me **bizip04@gmail.com**.
 
-- 📄 Know about my experiences **[Bizimungu Pascal](bizip.github.io/p-portifolio/).**
+- 📄 Know about my experiences **[My portfolio](https://bizip.github.io/p-portifolio/).**
 
 - ⚡ Fun fact **I am a philosophy of my life, I love traveling in fact I am a traveller expert**
 
