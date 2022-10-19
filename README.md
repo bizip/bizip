@@ -23,9 +23,9 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)           
 ---
-- 🔭 I’m currently working as a **Freelancer web developer and part-time scratch programming at VVOB in Rwanda**.
+- 🔭 I’m currently working as a **Job Searching! :tada::muscle::mortar_board:**.
 
-- 🌱 I’m currently learning **full-stach web development at Microverse , docker, kubernetes, Ruby on Rails, react**.
+- 🌱 I’m currently learning **full-stack web developer at Microverse Ruby on Rails, React/Redux**.
 
 - 👯 I’m looking to collaborate on **Any open source project**.
 
