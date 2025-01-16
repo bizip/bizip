@@ -25,13 +25,13 @@
 ---
 - 🔭 I’m currently working as a **Job Searching! :tada::muscle::mortar_board:**.
 
-- 🌱 I’m currently learning **full-stack web developer at Microverse Ruby on Rails, React/Redux**.
+- 🌱 I’m currently learning **full-stack web developer at Web3**.
 
 - 👯 I’m looking to collaborate on **Any open source project**.
 
 - 🤝 I’m looking for help with **fundraising**.
 
-- 👨‍💻 All of my projects are available at **[Bizimungu pascal](https://bizip.github.io/p-portifolio/).**
+- 👨‍💻 All of my projects are available at **[Bizimungu pascal](https://pascal.primebasedeals.com/projects).**
 
 - 📝 I regularly write articles on **[https://medium.com/@bizip04](https://medium.com/@bizip04).**
 
@@ -39,7 +39,7 @@
 
 - 📫 How to reach me **bizip04@gmail.com**.
 
-- 📄 Know about my experiences **[My portfolio](https://bizip.github.io/p-portifolio/).**
+- 📄 Know about my experiences **[My portfolio](https://pascal.primebasedeals.com).**
 
 - ⚡ Fun fact **I am a philosophy of my life, I love traveling in fact I am a traveller expert**
 
